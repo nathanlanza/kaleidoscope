@@ -1,4 +1,0 @@
-/Users/lanza/Documents/Kaleidoscope/xbuild/CMakeFiles/kaleidoscope.dir
-/Users/lanza/Documents/Kaleidoscope/xbuild/CMakeFiles/intrinsics_gen.dir
-/Users/lanza/Documents/Kaleidoscope/xbuild/CMakeFiles/ALL_BUILD.dir
-/Users/lanza/Documents/Kaleidoscope/xbuild/CMakeFiles/ZERO_CHECK.dir
